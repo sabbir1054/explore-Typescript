@@ -1,0 +1,12 @@
+/* 
+
+
+
+        when we use access modifier to hide something from the class that means we encapsulated something
+
+
+
+
+
+
+*/
